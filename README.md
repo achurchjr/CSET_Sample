@@ -1,7 +1,5 @@
-# fake_repo
-fake repo for show
+# CSET Sample code
 
+The CSET_Sample.ipynb is the Jupyter Notebook format of a Python script for web scraping and Natural Language Processing and visualization. As Github does not render graphics, the output can be viewed at the following link: https://nbviewer.jupyter.org/github/achurchjr/CSET_Sample/blob/master/CSET_Sample.ipynb
 
-A new sentence
-
-A second new sentence!
+The CSET_Sample.py script is the executable Python script.
