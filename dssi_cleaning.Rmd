@@ -1,0 +1,25 @@
+---
+title: "Tidy Data"
+author: "Allen Church"
+date: "September 17, 2020"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(readxl)
+```
+
+
+```{r}
+dat <- read_csv("dssi.csv", skip = 5)
+head(dat)
+```
+```{r}
+# CTRL SHIFT M for Pipe
+dat %>% 
+  pivot_longer(c("2014","2015","2016","2017","2018"),
+               names_to = "year",
+               values_to = "DOD")
+```
+
