@@ -1,7 +1,7 @@
 # Sample Codebooks
 
-Data_Visualization: 3 examples of Exploratory Data Analysis, visualizing bicycle crashes in Washington, DC using an open dataset, and another Exploratory Data Analysis exercise.
+Data_Visualization: Visualizing bicycle crashes in Washington, DC and Gapminder data viz.
 
-Machine_Learning: Contains examples of a decision tree for home mortgage feature importance and a logistic classifier.
+Machine_Learning: Decision tree classifier for home mortgage feature importance and training a logistic classifier on the same dataset.
 
-Web_Scraping_and_NLP: An example using Spacy NLP Library and Beautiful Soup for Web Scraping.
+Web_Scraping_and_NLP: Using Spacy NLP Library for custom Named Entity Recognition and Beautiful Soup for Web Scraping.
