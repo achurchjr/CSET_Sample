@@ -1,7 +1,7 @@
 # Sample Codebooks
 
 **Data_Visualization**:
-- DC_Bicycle_Crash_Visuals: Visualizing bicycle crashes in Washington, DC
+- DC_Bicycle_Crash_Visuals: Visualizing bicycle crashes in Washington, DC.
 - Gapminder_EDA: Gapminder data viz.
 
 **Machine_Learning**:
